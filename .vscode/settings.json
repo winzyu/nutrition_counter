@@ -1,0 +1,8 @@
+{
+    "terminal.integrated.profiles.linux": {
+        "bash": {
+            "path": "bash",
+            "args": ["--rcfile", "/path/to/custom/bashrc"]
+        }
+    }
+}
